@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /assets/
+Disallow: /README.md
+Disallow: /mystyles.css
+Disallow: /Custom Upholstery email code.txt
+Disallow: /project.mobirise
