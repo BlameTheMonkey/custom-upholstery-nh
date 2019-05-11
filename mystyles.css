@@ -1,0 +1,28 @@
+/* About Page */
+ @media only screen and (max-width: 600px) {
+    #content1-i {
+        padding: 18px 0;
+    }
+
+    #content4-j {
+        padding: 0;
+    }
+} 
+
+/* Home Page */
+@media only screen and (max-width: 600px) {
+    #header11-8, #features21-4, #content1-5 {
+        padding: 18px 0 0 0;
+    }
+}
+
+/* Work page */
+<style>
+@media only screen and (max-width: 600px) {
+    #content1-i {
+        padding: 18px 0;
+    }
+}
+</style>
+
+/* Above must be insterted into <head> section of relevent page */
